@@ -1,7 +1,7 @@
 {
     "states": [
       {
-        "id": 1,
+        "id": "ab",
         "state": "Alberta",
         "state_abrev" : "AB",
         "state_number_pastor" : "4",
@@ -67,7 +67,7 @@
       },
 
       {
-        "id": 2,
+        "id": "bc",
         "state": "British Columbia",
         "state_abrev" : "BC",
         "state_number_pastor" : "1",
@@ -91,7 +91,7 @@
       },
 
       {
-        "id": 3,
+        "id": "sk",
         "state": "Saskatchewan",
         "state_abrev" : "SK",
         "state_number_pastor" : "1",
