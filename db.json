@@ -6,6 +6,7 @@
         "state_abrev" : "AB",
         "city" : [
             { 
+              "id_city" : "ab-1",
               "city_name" : "Brooks",
               "city_pastor_role_fr" : "Pasteur",
               "city_pastor_role_en" : "Pastor",
@@ -18,6 +19,7 @@
               "church_zip_code" : "T1R 0E3"
             },
             { 
+              "id_city" : "ab-2",
               "city_name" : "Calgary",
               "city_pastor_role_fr" : "Directeur Président",
               "city_pastor_role_en" : "Director President",
@@ -38,6 +40,7 @@
         "state_abrev" : "BC",
         "city" : [
             { 
+              "id_city" : "bc-1",
               "city_name" : "Surrey",
               "city_pastor_role_fr" : "Pasteur",
               "city_pastor_role_en" : "Pastor",
