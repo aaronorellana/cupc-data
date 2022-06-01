@@ -4,6 +4,7 @@
         "id": 1,
         "state": "Alberta",
         "state_abrev" : "AB",
+        "state_number_pastor" : "4",
         "city" : [
             { 
               "id_city" : "ab-1",
@@ -11,6 +12,7 @@
               "city_pastor_role_fr" : "Pasteur",
               "city_pastor_role_en" : "Pastor",
               "city_pastor_role_es" : "Pastor",
+              "city_pastor_img" : "https://cupc-epuc.org/wp-content/uploads/2021/05/Argote.png",
               "city_pastor" : "Jose Luis Argote",
               "city_pastor_wife" : "Yudith Frias Argote",
               "city_pastor_phone" : "819.967.4445",
@@ -24,13 +26,28 @@
               "city_pastor_role_fr" : "Directeur Président",
               "city_pastor_role_en" : "Director President",
               "city_pastor_role_es" : "Director Presidente",
+              "city_pastor_img" : "https://cupc-epuc.org/wp-content/uploads/2020/05/Sara.png",
               "city_pastor" : "Moises Sara",
               "city_pastor_wife" : "Ines Cubillos",
               "city_pastor_phone" : "403.473.0008 - 403.474.4055",
               "city_pastor_email" : "moises.sara@cupc-epuc.org",
               "church_address" : "6630, 20a St SE",
               "church_zip_code" : "T2C 0R3"
-            }
+            },
+            { 
+                "id_city" : "ab-3",
+                "city_name" : "Edmonton",
+                "city_pastor_role_fr" : "Pasteur",
+                "city_pastor_role_en" : "Pastor",
+                "city_pastor_role_es" : "Pastor",
+                "city_pastor_img" : "https://cupc-epuc.org/wp-content/uploads/2021/05/Sanchez.png",
+                "city_pastor" : "Giovanny Sanchez",
+                "city_pastor_wife" : "Olga Lucia Martinez",
+                "city_pastor_phone" : "204.596.0428",
+                "city_pastor_email" : "giovanny.sanchez@cupc-epuc.org",
+                "church_address" : "12315, 132 Ave NW",
+                "church_zip_code" : "T5L 3P6"
+              }
         ]
       },
 
@@ -38,6 +55,7 @@
         "id": 2,
         "state": "British Columbia",
         "state_abrev" : "BC",
+        "state_number_pastor" : "1",
         "city" : [
             { 
               "id_city" : "bc-1",
@@ -45,6 +63,7 @@
               "city_pastor_role_fr" : "Pasteur",
               "city_pastor_role_en" : "Pastor",
               "city_pastor_role_es" : "Pastor",
+              "city_pastor_img" : "https://cupc-epuc.org/wp-content/uploads/2021/05/Palomino.png",
               "city_pastor" : "German Palomino",
               "city_pastor_wife" : "Diana Acevedo",
               "city_pastor_phone" : "604.773.2252",
