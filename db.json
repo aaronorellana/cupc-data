@@ -1,0 +1,56 @@
+{
+    "states": [
+      {
+        "id": 1,
+        "state": "Alberta",
+        "state_abrev" : "AB",
+        "city" : [
+            { 
+              "city_name" : "Brooks",
+              "city_pastor_role_fr" : "Pasteur",
+              "city_pastor_role_en" : "Pastor",
+              "city_pastor_role_es" : "Pastor",
+              "city_pastor" : "Jose Luis Argote",
+              "city_pastor_wife" : "Yudith Frias Argote",
+              "city_pastor_phone" : "819.967.4445",
+              "city_pastor_email" : "joseluis.argote@cupc-epuc.org",
+              "church_address" : "5-604, Cassils Rd W",
+              "church_zip_code" : "T1R 0E3"
+            },
+            { 
+              "city_name" : "Calgary",
+              "city_pastor_role_fr" : "Directeur Président",
+              "city_pastor_role_en" : "Director President",
+              "city_pastor_role_es" : "Director Presidente",
+              "city_pastor" : "Moises Sara",
+              "city_pastor_wife" : "Ines Cubillos",
+              "city_pastor_phone" : "403.473.0008 - 403.474.4055",
+              "city_pastor_email" : "moises.sara@cupc-epuc.org",
+              "church_address" : "6630, 20a St SE",
+              "church_zip_code" : "T2C 0R3"
+            }
+        ]
+      },
+
+      {
+        "id": 2,
+        "state": "British Columbia",
+        "state_abrev" : "BC",
+        "city" : [
+            { 
+              "city_name" : "Surrey",
+              "city_pastor_role_fr" : "Pasteur",
+              "city_pastor_role_en" : "Pastor",
+              "city_pastor_role_es" : "Pastor",
+              "city_pastor" : "German Palomino",
+              "city_pastor_wife" : "Diana Acevedo",
+              "city_pastor_phone" : "604.773.2252",
+              "city_pastor_email" : "german.palomino@cupc-epuc.org",
+              "church_address" : "9243, 152 St",
+              "church_zip_code" : "V3R 4G1"
+            }
+        ]
+      }
+
+    ]
+}
